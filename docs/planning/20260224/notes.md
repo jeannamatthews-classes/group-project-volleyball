@@ -1,5 +1,7 @@
 ### Personal Notes for Planning/GANTT Chart - Chris
 
+Other notes are in Sanction System Rewrite
+
 ### CS350 Notes
 ##### General project overview
 - Google Doc sent over to us for what to do, can also look at user requirements
