@@ -21,15 +21,15 @@ If we meet all goals of target MVP, Scott is open to student suggestions of feat
 
 The critical path includes:
 The team becoming acquainted with the project and tools used to manage it.
+Create documentation for the project.
 Integrate the API, debugging as we go in order to correctly and effectively integrate the API.
 Then, debug the rest of the code, and make it more efficent in order to complete the "Plan B MVP".
 Complete the integration of the front-end template.
 
 ### 3e) Identify a list of key risks to the success of your project. Discuss a plan for resolving the key risks as early as is possible.
 
-Risk 1, the documentation and refacotoring takes much longer than expected:
-We do not know the state of the code, and how much refactoring is needed. We do know that there is almost no documentation, "despite working in IT" - Scott. We have enough spare time I belive,
-and have given ourselves ample time to allocate to this issue and still be on schedule. Additionally we can use Scott to help us understand his code and the magic behind it.
+Risk 1, the documentation and refactoring takes much longer than expected:
+We do not know the state of the code, and how much refactoring is needed. We do know that there is almost no documentation, "despite working in it" - Scott. We have enough spare time I believe, and have given ourselves ample time to allocate to this issue and still be on schedule. Additionally we can use Scott to help us understand his code and the magic behind it.
 
 Risk 2, API troubles:
 Scott did state that the API has no documentation as well, so this could be a problem in integrating.
