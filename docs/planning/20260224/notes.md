@@ -1,6 +1,8 @@
 ### Personal Notes for Planning/GANTT Chart - Chris
 
-Other notes are in Sanction System Rewrite
+Other notes are in Sanction System Rewrite.
+
+ALSO THE SECOND PAGE OF VOLLEYBALL Gantt Chart.pdf IS JUST SCROLLED TO THE RIGHT, SO YOU CAN SEE MORE DATES.
 
 ### CS350 Notes
 ##### General project overview
