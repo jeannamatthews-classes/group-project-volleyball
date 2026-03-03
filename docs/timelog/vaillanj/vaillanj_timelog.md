@@ -9,3 +9,4 @@
 | 02/17-02/24 | 240 | GANTT Chart Development | 315 |
 | 02/24 | 60 | Github and timelog setup | 375 |
 | 02/24 | 75 | GANTT chart development | 450 |
+| 03/03 | 65 | Design document research and file review | 65 |
