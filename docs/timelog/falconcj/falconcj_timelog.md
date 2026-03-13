@@ -24,37 +24,44 @@ Group Meeting (2/24) - 75mins
 - Each member will be learning PHP, cPanel in there free time, while also taking a look at the project.
 
 Github stuffs (2/24) - 15mins
-- Uploaded Gantt Chart
-- and created this document
+- Uploaded Gantt Chart.
+- and created this document.
 
 ### Week 2.5 (2/25 - 2/28) (total: 1hr 30mins)
 
 PHP, cPanel (2/27) - 90mins
-- Scrolled through W3 to get the syntax of the language
-- Looked through the cPanel project, still confused
-- Also made FTP account: chris
+- Scrolled through W3 to get the syntax of the language.
+- Looked through the cPanel project, still confused.
+- Also made FTP account: chris.
 
-### Week 3 (3/1 - 3/3) (total: 90)
+### Week 3 (3/1 - 3/3) (total: 1hr 30mins)
 
 Group Meeting (3/3) - 90mins
-- Decided on documentation stuff
-- Actually received the project code from Scott today
-- Looked through the codebase
-- Communicated with Scott
+- Decided on documentation stuff.
+- Actually received the project code from Scott today.
+- Looked through the codebase.
+- Communicated with Scott.
 
 ### Week 3.5 (3/4 - 3/7) (total: 0)
 
 nothing
 
-### Week 4 (3/8 - 3/10) (total: )
+### Week 4 (3/8 - 3/10) (total: 1hr 30mins)
 
 Github stuff and excel updating (3/9) - 30mins
-- Updated TimeLog stuffs for a couple of weeks
-- Updates the Excel Gantt Chart
+- Updated TimeLog stuffs for a couple of weeks.
+- Updates the Excel Gantt Chart.
+
+Group Meeting with Prof. Matthews (3/10) - 60mins
+- Went over progresss.
+- Got advice on our general plan of action.
+- Cleared up some confusions about the project.
 
 ### Week 4.5 (3/11 - 3/14) (total: )
 
-
+Group Meeting with Scott (3/12) - 60mins
+- Went through the codebase, to get a better understanding of what is dead code and what is vital.
+- Scott went through the main functionalities of the old sanction system, and showed us the current state of the new one.
 
 ### Week 5 (3/15 - 3/17) (total: )
 
