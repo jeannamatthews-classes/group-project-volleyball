@@ -57,19 +57,63 @@ Group Meeting with Prof. Matthews (3/10) - 60mins
 - Got advice on our general plan of action.
 - Cleared up some confusions about the project.
 
-### Week 4.5 (3/11 - 3/14) (total: )
+### Week 4.5 (3/11 - 3/14) (total: 3hrs 30mins)
 
 Group Meeting with Scott (3/12) - 60mins
 - Went through the codebase, to get a better understanding of what is dead code and what is vital.
 - Scott went through the main functionalities of the old sanction system, and showed us the current state of the new one.
 
-### Week 5 (3/15 - 3/17) (total: )
+Design Planinng (3/14) - 150mins
+- Made documenation and design details for refactoring, api integration, front-end changes, and database schema.
+
+### Week 5 (3/15 - 3/17) (total: 0)
 
 Spring Break
 
-### Week 5.5 (3/18 - 3/21) (total: )
+### Week 5.5 (3/18 - 3/21) (total: 0)
 
 Spring Break
 
-### Week 6 (3/22 - 3/24) (total: )
+### Week 6 (3/22 - 3/24) (total: 0)
+
+End of Break
+
+### Week 6.5 (3/25 - 3/28) (total: 0)
+
+Nothing
+
+### Week 7 (3/29 - 3/31) (total: ) <-----
+
+PHP and Hosting testing (3/30) - 60mins
+- Did some testing in php using XAMPP
+- Minor Github updates
+
+### Week 7.5 (4/1 - 4/4) (total: )
+
+
+
+### Week 8 (4/5 - 4/7) (total: )
+
+
+
+### Week 8.5 (4/8 - 4/11) (total: )
+
+
+
+### Week 9 (4/12 - 4/14) (total: )
+
+
+
+### Week 9.5 (4/15 - 4/18) (total: )
+
+
+
+### MATERIALS DUE 4/19
+##### PRESENTATIONS 4/21, 4/23
+
+### Week 10 (4/19 - 4/21) (total: )
+
+
+
+### Week 10.5 (4/22 - 4/25) (total: )
 
