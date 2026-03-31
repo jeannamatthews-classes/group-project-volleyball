@@ -88,6 +88,11 @@ PHP and Hosting testing (3/30) - 60mins
 - Did some testing in php using XAMPP
 - Minor Github updates
 
+Project Planning & Updates to GANTT chart (3/31) - 45mins
+- Made 20260331 directory
+- Updated the GANTT chart to reflect current situation
+- Created a Planning document to explain each goal in further detail and help organize our work
+
 ### Week 7.5 (4/1 - 4/4) (total: )
 
 
