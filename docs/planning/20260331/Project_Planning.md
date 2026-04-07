@@ -2,7 +2,7 @@ Christopher Falcone
 
 As of 3/31, we are behind schedule, thus the project planning has been updated accordingly.
 
-### Critical Path
+## Critical Path
 
 Github & Project Management (3/30 - 4/5) (All)
 - All members are expected to help in the process of migrating the cpanel project into a private github repo for review.
@@ -30,13 +30,13 @@ Front-end v3 development (4/6 - 4/12) (Noah)
 
 These 3 tasks can be done on seperate branches
 
-### Important Dates
+## Important Dates
 
-Submission Date (4/19)
-Presentation Day 1 (4/21)
-Presentation Day 2 (4/23)
+Submission Date (4/19)  
+Presentation Day 1 (4/21)  
+Presentation Day 2 (4/23)  
 
-### Side Tasks
+## Side Tasks
 
 SportsEngine API testing (4/13 - 4/18) (Chris)
 - Testing ont the API to make sure it is reliable.

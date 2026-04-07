@@ -15,7 +15,6 @@ Group Meeting (2/17) - 90mins
 ### Week 1.5 (2/18 - 2/21) (total: 0)
 
 FEBRUARY BREAK
-- nothing happened
 
 ### Week 2 (2/22 - 2/24) (total: 1hr 30mins)
 
@@ -78,30 +77,56 @@ Spring Break
 
 End of Break
 
-### Week 6.5 (3/25 - 3/28) (total: 0)
+### Week 6.5 (3/25 - 3/28) (total: 1hr 45mins)
 
-Nothing
+PHP learning (3/27) - 60mins
+- More thoroughly went through W3Schools PHP Tutorial
 
-### Week 7 (3/29 - 3/31) (total: ) <-----
+cPanel (3/28) - 45mins
+- Went through CPanel, trying to make ftp account work, and looking at the codebase/planning
 
-PHP and Hosting testing (3/30) - 60mins
+### Week 7 (3/29 - 3/31) (total: 3hrs 15mins)
+
+PHP and Hosting testing (3/30) - 75mins
 - Did some testing in php using XAMPP
 - Minor Github updates
 
-Project Planning & Updates to GANTT chart (3/31) - 45mins
+Project Planning & Updates to GANTT chart (3/31) - 60mins
 - Made 20260331 directory
 - Updated the GANTT chart to reflect current situation
 - Created a Planning document to explain each goal in further detail and help organize our work
+- Communicated with group members after for opinions
 
-### Week 7.5 (4/1 - 4/4) (total: )
+PHP Learning (3/31) - 60mins
+- Continuation of what happened on 3/30 (yesterday)
 
+### Week 7.5 (4/1 - 4/4) (total: 3hrs) 
 
+PHP Learning (4/2) - 30mins
+- Looked into global variables, ex: $_COOKIE, etc. and how they work
 
-### Week 8 (4/5 - 4/7) (total: )
+Github Transition (4/3) - 120mins
+- Created Repo for Volleyball Sanction system
+- Played/looked around with the code
 
+SportsEngine API documentation (4/4) - 30mins
+- Looked through SportsEngine API documentation, and examples of GraphQL
 
+### Week 8 (4/5 - 4/7) (total: 3hrs 15mins)
 
-### Week 8.5 (4/8 - 4/11) (total: )
+SQL Learning (4/5) - 90mins
+- Brushed up on SQL syntax, and looked at some of my previous works in phpMyAdmin.
+
+Group Meeting (4/7) - 90mins
+- Held meeting about new plans
+- Updates to Gantt Chart and new planning doc will be commited tommorow
+- Emailed Scott with updates and questions
+
+Github logging (4/7) - 15mins
+- Converted some of the time logging from personal time notes file to this repo for the last week or two
+- Made some changes and commited
+
+### Week 8.5 (4/8 - 4/11) (total: ) <-----
 
 
 
