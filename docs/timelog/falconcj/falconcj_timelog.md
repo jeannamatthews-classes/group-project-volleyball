@@ -128,7 +128,9 @@ Github logging (4/7) - 15mins
 
 ### Week 8.5 (4/8 - 4/11) (total: ) <-----
 
-
+Gantt Chart Updates (4/8) - 15mins
+- Updated the Gantt Chart and moved into repo
+- Created new project_planning.md
 
 ### Week 9 (4/12 - 4/14) (total: )
 
@@ -139,7 +141,7 @@ Github logging (4/7) - 15mins
 
 
 ### MATERIALS DUE 4/19
-##### PRESENTATIONS 4/21, 4/23
+##### PRESENTATIONS 4/21, (4/23) <----- us
 
 ### Week 10 (4/19 - 4/21) (total: )
 
