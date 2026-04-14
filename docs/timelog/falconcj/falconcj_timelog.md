@@ -126,15 +126,27 @@ Github logging (4/7) - 15mins
 - Converted some of the time logging from personal time notes file to this repo for the last week or two
 - Made some changes and commited
 
-### Week 8.5 (4/8 - 4/11) (total: ) <-----
+### Week 8.5 (4/8 - 4/11) (total: 3hrs 15mins)
 
 Gantt Chart Updates (4/8) - 15mins
 - Updated the Gantt Chart and moved into repo
 - Created new project_planning.md
 
-### Week 9 (4/12 - 4/14) (total: )
+Private repo, and worked on project planning (4/9) - 60mins
+- Repurposed private repo for v3
+- Worked on project_planning.md for 20260408
 
+Sanction System Repo (4/11) - 120mins
+- Worked on anything missing in the repo
+- Went through the codebase
+- Removed any secret keys
 
+### Week 9 (4/12 - 4/14) (total: ) <-----
+
+Sanction System Repo & project planning (4/13) - 60mins
+- Worked on config.php
+- Removed anything to do with the metronic template in the repo
+- Worked on this repo
 
 ### Week 9.5 (4/15 - 4/18) (total: )
 
