@@ -141,16 +141,39 @@ Sanction System Repo (4/11) - 120mins
 - Went through the codebase
 - Removed any secret keys
 
-### Week 9 (4/12 - 4/14) (total: ) <-----
+### Week 9 (4/12 - 4/14) (total: 3hrs 45mins) 
 
 Sanction System Repo & project planning (4/13) - 60mins
 - Worked on config.php
 - Removed anything to do with the metronic template in the repo
 - Worked on this repo
 
-### Week 9.5 (4/15 - 4/18) (total: )
+Re-looked into integrating SportsEngineAPI (4/14) - 115mins 
+- Looked into current api directory
+- Should be able to be moved into repo, except for config.php
+- Current Database does not have user uploads, but does have clubs
+- The data is also being stored in JSON
+- Communicated with Scott, and said he would set up the Cron Jobs
 
+Metronic Layout manager (4/14) - 60mins
+- Looked into the Metronic Layout Manager scott used, in layout.php
+- I should be able to implement it on new code
 
+### Week 9.5 (4/15 - 4/18) (total: ) <-----
+
+Session security in PHP, and some HTML (4/15) - 45 mins
+- Looked into session security in PHP, since that is probably important
+- I also have not really looked into HTML, and I learned a lot, particlularly with headers and href's.
+
+Meeting with Scott (4/16) - 45 mins
+- Scott was in the car :)
+- Spoke about API integration, worked together on fixing account permisions on the clarkson site
+- Also clarified some other things
+
+Planning, Gantt Chart, this Repo (4/16) - 30mins
+- Made Gantt Chart updates
+- Made new planning document under 202604016
+- Updated like a weeks worth of logs, and small changes to this repo
 
 ### MATERIALS DUE 4/19
 ##### PRESENTATIONS 4/21, (4/23) <----- us
