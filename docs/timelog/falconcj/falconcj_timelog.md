@@ -192,9 +192,9 @@ Project development (4/17) - 75mins
 - Created new file sanctions.php
 - updated Layout.php to have tailwind CDN support, while trying not to interfere with metronic
 
-Project development (4/17) - 45mins
+Project development (4/17) - 60mins
 - Updated Sanctions.php to now have edit, delete, approve, and deny buttons under the dropdown
-- Created changelog.md in v3, so Scott knows of the changes made
+- Created and updated changelog.md in v3, so Scott knows of the changes made
 - Emailed Scott
 
 ### MATERIALS DUE 4/19
