@@ -175,6 +175,28 @@ Planning, Gantt Chart, this Repo (4/16) - 30mins
 - Made new planning document under 202604016
 - Updated like a weeks worth of logs, and small changes to this repo
 
+Project development (4/17) - 30mins
+- FINALLY GOT A TESTING ACCOUNT
+- FIXED a database entry causing login errors (email was spelt wrong)
+- added api directory to repo
+- changed find_user_by_email function to no longer be xlvball exclusive
+
+Project development (4/17) - 75mins
+- For sites & buildings, clubs, and the users pages, hovering over an entry will now show a grey highlight.
+- Additionally when hovering over the name column, it will highlight blue and can be clicked to edit the entry.
+- Added a pencil icon to editable entries for clarity.
+- Aemoved action column since it served no purpose with new edit feature.
+- Added a grey hover to the dashboard options.
+
+Project development (4/17) - 75mins
+- Created new file sanctions.php
+- updated Layout.php to have tailwind CDN support, while trying not to interfere with metronic
+
+Project development (4/17) - 45mins
+- Updated Sanctions.php to now have edit, delete, approve, and deny buttons under the dropdown
+- Created changelog.md in v3, so Scott knows of the changes made
+- Emailed Scott
+
 ### MATERIALS DUE 4/19
 ##### PRESENTATIONS 4/21, (4/23) <----- us
 
