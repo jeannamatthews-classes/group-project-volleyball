@@ -159,7 +159,7 @@ Metronic Layout manager (4/14) - 60mins
 - Looked into the Metronic Layout Manager scott used, in layout.php
 - I should be able to implement it on new code
 
-### Week 9.5 (4/15 - 4/18) (total: ) <-----
+### Week 9.5 (4/15 - 4/18) (total: 8hrs, 15mins)
 
 Session security in PHP, and some HTML (4/15) - 45 mins
 - Looked into session security in PHP, since that is probably important
@@ -207,11 +207,11 @@ Project development (4/18) - 135mins
 (more explicit changes in v3 changelogs 4/18)
 
 ### MATERIALS DUE 4/19
-##### PRESENTATIONS 4/21, (4/23) <----- us
 
-### Week 10 (4/19 - 4/21) (total: )
+### Week 10 (4/19 - 4/21) (total: ) <-----
 
 start 2:00pm
 
 ### Week 10.5 (4/22 - 4/25) (total: )
 
+##### PRESENTATION 4/23
