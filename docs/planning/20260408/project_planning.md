@@ -1,4 +1,5 @@
 Christopher Falcone
+*4/08*
 
 After the previous revisions, we have decided to change our priorities to only focusing on back-end and front-end development of v3. Yes this is agains our previous MVP's, but realistically this was one of Scott's main goals, and this is much more presentable then a bunch of documentation, and will have an actual impact on the end product.
 

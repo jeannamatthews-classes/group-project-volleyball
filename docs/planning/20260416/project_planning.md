@@ -1,4 +1,5 @@
 Christopher Falcone
+*4/16*
 
 There was a lot of progress made after my personal meeting with Scott today. Mostly in getting rid of the roadblocks in the system that was preventing us from making a lot of progress. I also had somewhat of an epiphany on how the system works, so my workflow has greatly improved.
 

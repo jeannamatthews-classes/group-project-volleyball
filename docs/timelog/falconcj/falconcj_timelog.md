@@ -206,11 +206,26 @@ Project development (4/18) - 135mins
 - Updated clubs.php
 (more explicit changes in v3 changelogs 4/18)
 
+### Week 10 (4/19 - 4/21) (total: ) <-----
 ### MATERIALS DUE 4/19
 
-### Week 10 (4/19 - 4/21) (total: ) <-----
+Group meeting (4/19) - 120mins
+- Made Presentation Script
+- Talked about project progress
+- Emailed Prof. Matthews
+- Started work on submission
 
-start 2:00pm
+Submission work (4/19) - 30 mins
+- Worked on user manual
+- Worked on changelog updates
+- Inserted user into database
+
+Submission work (4/19) - 45 mins
+- Worked on Gantt Chart
+- Reformated a couple of older files
+- Uploaded things that were previsouly not in repo
+
+start 6:15
 
 ### Week 10.5 (4/22 - 4/25) (total: )
 
