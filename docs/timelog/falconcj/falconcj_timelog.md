@@ -197,6 +197,15 @@ Project development (4/17) - 60mins
 - Created and updated changelog.md in v3, so Scott knows of the changes made
 - Emailed Scott
 
+Project development (4/18) - 135mins
+- Updated sites.php
+- Updated sanctions.php
+- Updated layout.php
+- Updated incidents.php
+- Updated php.ini
+- Updated clubs.php
+(more explicit changes in v3 changelogs 4/18)
+
 ### MATERIALS DUE 4/19
 ##### PRESENTATIONS 4/21, (4/23) <----- us
 
