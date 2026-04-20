@@ -224,8 +224,11 @@ Submission work (4/19) - 45 mins
 - Worked on Gantt Chart
 - Reformated a couple of older files
 - Uploaded things that were previsouly not in repo
+- Updated README in other repo
 
-start 6:15
+Submission work (4/19) - 75 mins
+- Worked on project_planning.md for 20260419
+- Worked on design documentation
 
 ### Week 10.5 (4/22 - 4/25) (total: )
 
