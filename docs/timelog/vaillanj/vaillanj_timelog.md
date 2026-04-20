@@ -17,3 +17,5 @@
 | 03/27 | 20 | Checking functions in functions.php | 80 | 6 |
 | 03/31 | 60 | Checking dependencies in layout.php | 60 | 7 |
 | 04/07 | 75 | Scheduling meeting with Scott and reading buildings.php | 75 | 8 |
+| 04/14 | 80 | Working in CPanel | 80 | 9 |
+| 04/17 | 35 | Working in CPanel | 115 | 9 |
