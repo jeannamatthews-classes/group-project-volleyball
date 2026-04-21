@@ -238,6 +238,30 @@ Project development (4/21) - 75mins
 - Removed list button from users.php
 - Updated changelogs in v3 branch
 
+Project development (4/21) - 120mins
+- Emailed Scott
+- Updated this timelog with future weeks to fill in
+- Updated changelog for clarity
+- Added README to v3 branch
+- Updated layout.php with changes to Incidents, Sites, Buildings, Sanction requests icons
+- Made history array dynamic, to include editing/creating
+- Added blue hover to sidebar links
+- Other minor changes mentioned in changelog
+
 ### Week 10.5 (4/22 - 4/25) (total: )
 
 ##### PRESENTATION 4/23
+
+### Week 11 (4/26 - 4/28) (total: )
+
+
+
+### Week 11.5 (4/29 - 5/2) (total: )
+
+
+
+### Week 12 (5/3 - 5/5) (total: )
+
+##### FINAL DELIVERABLE DUE 5/3
+
+End of Semester 5/5
