@@ -230,6 +230,14 @@ Submission work (4/19) - 75 mins
 - Worked on project_planning.md for 20260419
 - Worked on design documentation
 
+Project development (4/21) - 75mins
+- Updated login_verify to now store user name, email, and role in the session
+- Updated layout.php to now correctly find session data
+- As a result it now shows admin tabs on the left bar, and your user account in the top right
+- Updated layout.php to now show site history at the top, basically it shows the path to get to your current page
+- Removed list button from users.php
+- Updated changelogs in v3 branch
+
 ### Week 10.5 (4/22 - 4/25) (total: )
 
 ##### PRESENTATION 4/23
