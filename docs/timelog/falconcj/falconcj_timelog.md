@@ -254,6 +254,10 @@ Trying to restart server (4/21) - 60mins
 
 ### Week 10.5 (4/22 - 4/25) (total: ) <-----
 
+Project development (4/22) - 45mins
+- Added COI (certificates of insurance) upload support to sanctions
+- Fixed incidents.php history array
+
 ##### PRESENTATION 4/23
 
 ### Week 11 (4/26 - 4/28) (total: )
