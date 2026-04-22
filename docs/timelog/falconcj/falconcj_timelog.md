@@ -206,7 +206,7 @@ Project development (4/18) - 135mins
 - Updated clubs.php
 (more explicit changes in v3 changelogs 4/18)
 
-### Week 10 (4/19 - 4/21) (total: ) <-----
+### Week 10 (4/19 - 4/21) (total: 8hrs, 45mins)
 ### MATERIALS DUE 4/19
 
 Group meeting (4/19) - 120mins
@@ -248,7 +248,11 @@ Project development (4/21) - 120mins
 - Added blue hover to sidebar links
 - Other minor changes mentioned in changelog
 
-### Week 10.5 (4/22 - 4/25) (total: )
+Trying to restart server (4/21) - 60mins
+- Spent about an hour trying to ssh into the server to restart it. No success :)
+- I will let Scott deal with it, so for now the php.ini will stay as is
+
+### Week 10.5 (4/22 - 4/25) (total: ) <-----
 
 ##### PRESENTATION 4/23
 
