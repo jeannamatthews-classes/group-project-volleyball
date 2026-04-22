@@ -21,5 +21,4 @@ DATE  		TIME 		DESCRIPTION					Total (per week)	week
 13/16-April	300			Work in v3					300					4/13
 16-April	45			Meeting with User			345
 19-April	120			Group Meeting				465
-13/19-April	240			Presentation work			705
 20/2-April	240			Finishing presentation		240					4/22
