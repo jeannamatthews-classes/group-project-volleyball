@@ -1,5 +1,6 @@
 # Christopher Falcone
 *1003982*
+
 *falconcj@clarkson.edu*
 
 ## Week 1 (2/15 - 2/17) (total: 2hr 45mins)
@@ -266,6 +267,10 @@
 - Fixed creating and editing sites in sites.php
 - Fixed creating and editing buildings in sites.php
 - Looked for more bugs, found a couple, listed in changelogs
+
+#### Project development (4/22) - 30mins
+- Looked for bugs
+- Added the excelsior logo to top right
 
 ### PRESENTATION 4/23
 
