@@ -258,6 +258,17 @@ Project development (4/22) - 45mins
 - Added COI (certificates of insurance) upload support to sanctions
 - Fixed incidents.php history array
 
+Group meeting (4/22) - 90mins
+- Made slideshow
+- Practiced some stuff
+
+Project development (4/22) - 75mins
+- Cleared database for presentation
+- Fixed bug in clubs where there was no submit button
+- Fixed creating and editing sites in sites.php
+- Fixed creating and editing buildings in sites.php
+- Looked for more bugs, found a couple, listed in changelogs
+
 ##### PRESENTATION 4/23
 
 ### Week 11 (4/26 - 4/28) (total: )
