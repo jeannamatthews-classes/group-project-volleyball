@@ -268,11 +268,20 @@
 - Fixed creating and editing buildings in sites.php
 - Looked for more bugs, found a couple, listed in changelogs
 
-#### Project development (4/22) - 30mins
+#### Project development (4/23) - 30mins
 - Looked for bugs
 - Added the excelsior logo to top right
 
 ### PRESENTATION 4/23
+
+start 9:30
+#### Project development (4/23) - 
+- Looked through old system, and noted everything worth adding to v3 in changelogs
+- Added tournament type as second column for sanctions
+- Bugfix: Made sanction info say denied by, if the sanction is denied (insteaad of approved by)
+- Bugfix: dropdown was off by one column, set colspan to 5 and fixed
+- Lots of buildings.php changes
+- Couple font changes across the site
 
 ## Week 11 (4/26 - 4/28) (total: )
 
