@@ -274,8 +274,7 @@
 
 ### PRESENTATION 4/23
 
-start 9:30
-#### Project development (4/23) - 
+#### Project development (4/23) - 60mins
 - Looked through old system, and noted everything worth adding to v3 in changelogs
 - Added tournament type as second column for sanctions
 - Bugfix: Made sanction info say denied by, if the sanction is denied (insteaad of approved by)
