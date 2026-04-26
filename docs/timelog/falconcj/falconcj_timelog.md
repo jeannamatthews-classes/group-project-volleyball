@@ -251,7 +251,7 @@
 - Spent about an hour trying to ssh into the server to restart it. No success :)
 - I will let Scott deal with it, so for now the php.ini will stay as is
 
-## Week 10.5 (4/22 - 4/25) (total: ) <-----
+## Week 10.5 (4/22 - 4/25) (total: 5hrs 45mins)
 
 #### Project development (4/22) - 45mins
 - Added COI (certificates of insurance) upload support to sanctions
@@ -282,7 +282,12 @@
 - Lots of buildings.php changes
 - Couple font changes across the site
 
-## Week 11 (4/26 - 4/28) (total: )
+#### Project development (4/25) - 45mins
+- Updated users.php to now send you back to the list screen when editing or creating a user
+- Updated users.php to now send you back to the list screen when editing or creating a user
+- Changelog updates
+
+## Week 11 (4/26 - 4/28) (total: ) <-----
 
 
 
