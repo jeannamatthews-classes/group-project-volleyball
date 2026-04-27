@@ -284,12 +284,15 @@
 
 #### Project development (4/25) - 45mins
 - Updated users.php to now send you back to the list screen when editing or creating a user
-- Updated users.php to now send you back to the list screen when editing or creating a user
+- Updated clubs.php to now send you back to the list screen when editing or creating a club
 - Changelog updates
 
 ## Week 11 (4/26 - 4/28) (total: ) <-----
 
-
+#### Project development (4/27) - 45mins
+- Added and implemented delete icon's for users, clubs, and buildings
+- Removed 'created' column from clubs
+- Updated buildings.php to now send you back to the list screen when editing or creating a building
 
 ## Week 11.5 (4/29 - 5/2) (total: )
 
