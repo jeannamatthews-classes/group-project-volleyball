@@ -294,6 +294,9 @@
 - Removed 'created' column from clubs
 - Updated buildings.php to now send you back to the list screen when editing or creating a building
 
+#### Project development (4/27) - 60mins
+- Added multiple comments to buildings.php, clubs.php, dashboard.php, incidents.php, sanctions.php, sites.php, and users.php for code clarity
+
 ## Week 11.5 (4/29 - 5/2) (total: )
 
 
