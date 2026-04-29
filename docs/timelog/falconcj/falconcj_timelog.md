@@ -287,7 +287,7 @@
 - Updated clubs.php to now send you back to the list screen when editing or creating a club
 - Changelog updates
 
-## Week 11 (4/26 - 4/28) (total: ) <-----
+## Week 11 (4/26 - 4/28) (total: 2hrs)
 
 #### Project development (4/27) - 45mins
 - Added and implemented delete icon's for users, clubs, and buildings
@@ -297,9 +297,13 @@
 #### Project development (4/27) - 60mins
 - Added multiple comments to buildings.php, clubs.php, dashboard.php, incidents.php, sanctions.php, sites.php, and users.php for code clarity
 
-## Week 11.5 (4/29 - 5/2) (total: )
+#### User communication (4/27) - 15mins
+- Sent Scott a moderately large email about feedback and some possible features we could still implement
 
+## Week 11.5 (4/29 - 5/2) (total: ) <-----
 
+#### Feedback paper (4/29) - 45mins
+- Wrote the feedback on interactions with users paper.
 
 ## Week 12 (5/3 - 5/5) (total: )
 
