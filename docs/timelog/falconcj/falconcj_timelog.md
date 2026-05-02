@@ -300,12 +300,16 @@
 #### User communication (4/27) - 15mins
 - Sent Scott a moderately large email about feedback and some possible features we could still implement
 
-## Week 11.5 (4/29 - 5/2) (total: ) <-----
+## Week 11.5 (4/29 - 5/2) (total: 45mins) <-----
+
+#### Finals Week
 
 #### Feedback paper (4/29) - 45mins
 - Wrote the feedback on interactions with users paper.
 
 ## Week 12 (5/3 - 5/5) (total: )
+
+#### Finals Week
 
 ### FINAL DELIVERABLE DUE 5/3
 
