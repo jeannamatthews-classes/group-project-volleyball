@@ -300,17 +300,23 @@
 #### User communication (4/27) - 15mins
 - Sent Scott a moderately large email about feedback and some possible features we could still implement
 
-## Week 11.5 (4/29 - 5/2) (total: 45mins) <-----
+## Week 11.5 (4/29 - 5/2) (total: 45mins)
 
 #### Finals Week
 
 #### Feedback paper (4/29) - 45mins
-- Wrote the feedback on interactions with users paper.
+- Wrote the feedback on interactions with users paper
 
-## Week 12 (5/3 - 5/5) (total: )
+## Week 12 (5/3 - 5/5) (total: 3hrs)
+
+#### Final Submission (5/03) - 180mins
+- Made/Updated submission folder and put everything in it, with a new README.md
+- Updated Gantt Chart
+- Made Project Planning Retrospective
+- Recorded Before and after Video
 
 #### Finals Week
 
 ### FINAL DELIVERABLE DUE 5/3
 
-End of Semester 5/5
+### End of Semester 5/5
